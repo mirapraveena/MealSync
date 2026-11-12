@@ -1,7 +1,8 @@
 # MealSync — Campus Food Ordering Platform
 
 A local prototype built with **React + Tailwind CSS**, **FastAPI + Python**, and **SQLite**.
-Website : https://mealsync-kmyt.onrender.com/login
+
+- Website : https://mealsync-kmyt.onrender.com/login
 
 ## Included
 - Single login entry with student/vendor role-based workspaces.
